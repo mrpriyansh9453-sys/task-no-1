@@ -1,5 +1,4 @@
-# codealpha_tasks
-# task no-1
+# codealpha_task 1
 #include <stdio.h>
 
 int main() {
